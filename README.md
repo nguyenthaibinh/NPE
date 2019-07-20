@@ -17,12 +17,14 @@ user_id item_id
 1  2
 
 ## How to cite this paper:
-```@inproceedings{nguyen2018npe,
+```
+@inproceedings{nguyen2018npe,
   title={NPE: neural personalized embedding for collaborative filtering},
   author={Nguyen, ThaiBinh and Takasu, Atsuhiro},
   booktitle={Proceedings of the 27th International Joint Conference on Artificial Intelligence},
   pages={1583--1589},
   year={2018},
   organization={AAAI Press}
-}```
+}
+```
 
